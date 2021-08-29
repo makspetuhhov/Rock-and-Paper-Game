@@ -14,7 +14,7 @@ namespace hw
     {
         public Game()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
 
         private void PlayAgainButton_Click(object sender, EventArgs e)
